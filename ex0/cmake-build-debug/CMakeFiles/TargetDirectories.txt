@@ -1,3 +1,0 @@
-/mnt/c/Users/itayt/CLionProjects/ex0/cmake-build-debug/CMakeFiles/ex0.dir
-/mnt/c/Users/itayt/CLionProjects/ex0/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/itayt/CLionProjects/ex0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
